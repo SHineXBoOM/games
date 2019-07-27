@@ -1,0 +1,109 @@
+/* font-family: 'Chelsea Market',
+cursive;
+
+font-family: 'Montserrat',
+sans-serif;
+ */
+
+/* header - start */
+
+header {
+    min-height: 100vh;
+
+    background-color: #000000;
+
+    opacity: 0.8;
+}
+
+.navbar {
+    -webkit-box-shadow: 0px 0px 5px 0px rgba(255, 183, 0, 1);
+    -moz-box-shadow: 0px 0px 5px 0px rgba(255, 183, 0, 1);
+    box-shadow: 0px 0px 5px 0px rgba(255, 183, 0, 1);
+    border-radius: 0px 0px 15px 15px;
+    -moz-border-radius: 0px 0px 15px 15px;
+    -webkit-border-radius: 0px 0px 15px 15px;
+    border: 0px solid #000000;
+}
+
+.navbar-link {
+    color: #ffffff;
+    text-transform: uppercase;
+}
+
+.navbar-link:hover {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.navbar-brand b {
+    font-family: 'Chelsea Market',
+        cursive;
+    color: red !important;
+    font-size: 28px;
+}
+
+.navbar-brand {
+    font-family: 'Chelsea Market',
+        cursive;
+    color: #ffffff !important;
+    font-size: 28px;
+}
+
+.nav-item {
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.navbar-nav, .navbar-ul  {
+    display: flex !important;
+    padding: 0;
+    flex-direction:row;
+}
+
+
+
+.header-text {
+    text-align: center;
+    margin: auto;
+    margin-top: 20vh;
+}
+
+.header-title {
+    font-size: 39px;
+    font-family: 'Montserrat',
+        sans-serif;
+    color: #ffffff;
+    margin-bottom: 15px;
+}
+
+.header-title b {
+    color: red;
+}
+
+.header-subtitle {
+    font-size: 22px;
+    color: #ccc;
+    margin-bottom: 30px;
+}
+
+.header-link {
+    padding: 12px 28px;
+    border: 1px solid #ffb600;
+    border-radius: 15px;
+    color: #ffb600;
+}
+
+.header-link:hover {
+    color: #ffb600;
+    -webkit-box-shadow: 0px 0px 5px 0px rgba(255, 183, 0, 1);
+    -moz-box-shadow: 0px 0px 5px 0px rgba(255, 183, 0, 1);
+    box-shadow: 0px 0px 5px 0px rgba(255, 183, 0, 1);
+    text-decoration: none;
+}
+
+
+/* header - end */
+
+
+
+

@@ -1,0 +1,14 @@
+@media(max-width:767.5px) {
+    .header-text {
+        text-align: left;
+    }
+    
+    .header-title {
+        font-size: 28px !important;
+    }
+
+    .header-subtitle {
+        font-size: 16px;
+    }
+
+}
